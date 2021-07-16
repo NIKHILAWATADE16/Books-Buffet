@@ -1,2 +1,2 @@
 # Books-Buffet
-smaple web page
+sample web page
