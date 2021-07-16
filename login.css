@@ -16,7 +16,7 @@
   } */
 
 .page-div{
-    background:url("lib.jpg");
+    background-image:url("lib.jpg");
     background-position: center;
     width: 30%;
     margin: 0px auto;
